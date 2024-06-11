@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bowling Score Keeper</string>
+    <string name="add_game">Add Game</string>
+    <string name="strikes">Strikes:</string>
+    <string name="spares">Spares:</string>
+    <string name="splits">Splits:</string>
+    <string name="open_frames">Open Frames:</string>
+    <string name="missed_pins">Missed Pins:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">Score:</string>
+    <string name="save">Save</string>
+    <string name="date">Date:</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete">Delete</string>
+    <string name="select_date">Select Date</string>
+    <string name="opens">Opens:</string>
+    <string name="welcome_to_score_keeper">Welcome to Score Keeper</string>
+    <string name="average">Average:</string>
+    <string name="notes">Notes:</string>
+</resources>
